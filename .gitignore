@@ -1,0 +1,34 @@
+# Python 기본
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.log
+
+# 가상환경
+venv/
+env/
+.venv/
+
+# 데이터 관련
+data/
+!data/.gitkeep  # 빈 폴더 유지용 (선택)
+
+# 주가 분석 결과
+*.csv
+*.json
+*.xlsx
+
+# 모델 및 결과
+checkpoints/
+*.pt
+*.pth
+*.h5
+
+# Jupyter/VSCode
+.ipynb_checkpoints/
+.vscode/
+*.ipynb
+
+# macOS 시스템 파일
+.DS_Store

@@ -1,0 +1,13 @@
+pytube            # YouTube 영상 정보 추출
+google-api-python-client  # 공식 YouTube Data API (선택)
+pandas
+beautifulsoup4    # (설명 텍스트 파싱 시 사용 가능)
+requests
+scikit-learn
+transformers      # KoBERT, KoELECTRA 등 감성 분석 모델
+torch
+yfinance          # 주가 데이터 수집
+matplotlib
+
+
+
